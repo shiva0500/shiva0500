@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dspfo.netlify.app/](https://dspfo.netlify.app/)
 
-- 📫 How to reach me **doddishiva@gmail.com**
+- 📫 How to reach me **doddishiva055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
