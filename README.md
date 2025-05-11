@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN-Blog**
+- 🔭 I’m currently working on **Oasis-AI-ORC**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning about **AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://dspfo.netlify.app/](https://dspfo.netlify.app/)
 
